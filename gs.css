@@ -22,3 +22,14 @@
 .fritzi{
     color:blue
 }
+
+table {
+    border: solid 3px red;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+tr:nth-child(even){
+    background-color: #e2e2e2;
+}
