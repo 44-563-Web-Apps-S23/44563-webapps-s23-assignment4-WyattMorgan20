@@ -10,7 +10,7 @@
     background-color: rgb(71, 255, 175);
 }
 
-.direction :hover {
+p.direction:hover{
     background-color: rgb(0, 255, 255);
     color: blueviolet;
 }
@@ -19,12 +19,24 @@
     color:brown;
 }
 
+h5.karl:hover {
+    text-shadow: 2px 4px 6px blue
+}
+
 .fritzi{
     color:blue;
 }
 
+h5.fritzi:hover {
+    text-shadow: 2px 4px 6px red
+}
+
 .bauer{
     color: purple;
+}
+
+h5.bauer:hover {
+    text-shadow: 2px 4px 6px yellow
 }
 
 table {
